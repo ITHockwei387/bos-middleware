@@ -15,7 +15,7 @@ const BOS_CONFIG = {
   SECRET: 'XGyzi3O2JIldnV4ugLbGb',
   ORIGIN: 'https://mandarin.club',
   REPORT_ID: '龍巖風水奇門盤.命json',
-  IP: '167.88.158.66'
+  IP: '74.220.52.2'
 };
 
 // ============================================================
@@ -244,5 +244,6 @@ app.listen(PORT, () => {
   console.log(`   Endpoint: POST /api/calculate_golden_card`);
   console.log(`\n✅ Server is ready!`);
 });
+
 
 
