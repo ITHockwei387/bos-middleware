@@ -244,6 +244,3 @@ app.listen(PORT, () => {
   console.log(`   Endpoint: POST /api/calculate_golden_card`);
   console.log(`\n✅ Server is ready!`);
 });
-
-
-
